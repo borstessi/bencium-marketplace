@@ -1,6 +1,6 @@
 ---
 name: bencium-controlled-ux-designer
-description: Expert UI/UX design guidance for unique, accessible interfaces. Use for visual decisions, colors, typography, layouts. Always ask before making design decisions. Use this skill when the user asks to build web components, pages, or applications.
+description: "Design guidance with an ask-first protocol, every decision on color, type, layout and motion is confirmed by the user before it is applied. Ships templates for a design system, accessibility, responsive design and motion. Use when the user starts the visual design of a new product or design system and wants to approve each decision. Not for screens in a product that already has a design system or component library (Mantine, Tamagui, shadcn/ui), there the existing system decides. Not for routine UI fixes or small components."
 metadata:
   version: 1.0.0
 ---
